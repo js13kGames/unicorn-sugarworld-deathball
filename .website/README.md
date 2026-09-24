@@ -1,4 +1,8 @@
 ---
+genres:
+  - action
+  - survival
+  - puzzle
 video: https://youtu.be/Qjni8TiDJjQ
 post: https://unicornsugarworld.com/
 # See github.com/js13kGames/hello-world for supported frontmatter
